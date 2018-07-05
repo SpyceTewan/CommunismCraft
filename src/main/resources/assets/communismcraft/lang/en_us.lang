@@ -1,0 +1,23 @@
+item.semechki.name=Semechki
+item.tracksuit_hat.name=Tracksuit Cap
+item.tracksuit_chest.name=Tracksuit Jacket
+item.tracksuit_legs.name=Tracksuit Pants
+item.tracksuit_boots.name=Tracksuit Shoes
+item.sunflower.name=Sunflower
+item.record_anthem.name=Soviet National Anthem
+item.record.record_anthem.desc=Soviet National Anthem | Red Army Choir
+item.record_tripaloski.name=Tripaloski
+item.record.record_tripaloski.desc=Tripaloski
+item.gasmask.name=Gasmask
+item.kvass.name=Kvass
+item.kvass_empty.name=Empty Kvass 
+item.baseball_bat.name=Baseball Bat
+item.blin.name=Blin
+
+key.squat.desc=Squat Down
+key.communismcraft.category=Communism Craft
+
+tile.sunflower_crops.name=Sunflower Crop
+tile.flag_soviet.name=Soviet Flag
+
+itemGroup.communismcraft=CommunismCraft

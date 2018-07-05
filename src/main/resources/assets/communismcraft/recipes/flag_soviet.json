@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"SSS",
+		" I "
+	],
+	"key": {
+		"S": {
+			"item": "communismcraft:semechki"
+		},
+		"I": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "communismcraft:flag_soviet"
+	}
+}

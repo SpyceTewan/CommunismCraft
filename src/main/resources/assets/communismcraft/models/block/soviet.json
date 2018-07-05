@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "all": "communismcraft:blocks/soviet"
+    }
+}

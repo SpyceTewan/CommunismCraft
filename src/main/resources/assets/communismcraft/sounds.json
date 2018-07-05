@@ -1,0 +1,20 @@
+{
+  "anthem": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "communismcraft:music/anthem",
+        "stream": true
+      }
+    ]
+  },
+  "tripaloski": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "communismcraft:music/tripaloski",
+        "stream": true
+      }
+    ]
+  }
+}
